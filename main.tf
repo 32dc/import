@@ -6,7 +6,6 @@ terraform {
         name = "rel-02"
       }
    }
-
    # required_providers {
    #   aws = {
    #      source = "hashicorp/aws"
