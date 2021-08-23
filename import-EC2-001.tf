@@ -1,2 +1,2 @@
-import "aws-instance" "EC2-001" {
+resource "aws-instance" "EC2-001" {
 }
